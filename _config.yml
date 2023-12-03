@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: test2
+title: test3
 
 # Your name to show in the footer
 author: Upgrading
@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/path/to/image/UpgradingWhiteLogo.png"
+title-img: "/path/to/image"
 
 
 #####################################
